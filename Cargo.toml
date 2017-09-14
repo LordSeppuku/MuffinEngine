@@ -1,0 +1,4 @@
+[package]
+
+[lib]
+path = "src/lib.rs"
